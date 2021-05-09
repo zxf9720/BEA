@@ -1,4 +1,4 @@
-package com.inter.market.bea.model;
+package com.view.market.bea.model;
 
 import java.math.BigDecimal;
 import java.util.Date;

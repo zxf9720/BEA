@@ -1,10 +1,10 @@
-package com.inter.market.bea.service;
+package com.view.market.bea.service;
 
 import java.util.List;
 
 import org.springframework.web.multipart.MultipartFile;
 
-import com.inter.market.bea.model.StockRecord;
+import com.view.market.bea.model.StockRecord;
 
 public interface RecordService {
 

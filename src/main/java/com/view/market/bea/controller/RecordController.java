@@ -1,4 +1,4 @@
-package com.inter.market.bea.controller;
+package com.view.market.bea.controller;
 
 import java.util.List;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.inter.market.bea.model.StockRecord;
-import com.inter.market.bea.service.RecordService;
+import com.view.market.bea.model.StockRecord;
+import com.view.market.bea.service.RecordService;
 
 @Controller
 @RequestMapping("/api/v1")

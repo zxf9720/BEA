@@ -1,11 +1,11 @@
-package com.inter.market.bea.repository;
+package com.view.market.bea.repository;
 
 import java.util.List;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
-import com.inter.market.bea.model.StockRecord;
+import com.view.market.bea.model.StockRecord;
 
 public interface RecordRepository extends MongoRepository<StockRecord, String> {
 	

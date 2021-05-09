@@ -1,4 +1,4 @@
-package com.inter.market.bea;
+package com.view.market.bea;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
